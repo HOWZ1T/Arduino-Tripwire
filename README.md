@@ -6,11 +6,11 @@ The laser module is built on a separate simple switch on/off circuit, thus allow
 <br>
 Note: a 8 digit 7 segment display was used for debugging values.<br>
 <br>
-(code)[laser-tripwire.ino]<br>
-(design)[tripwire_bb.png]
+[code](laser-tripwire.ino)<br>
+[design](tripwire_bb.png)
 
 # Definitions
 - MAX#### refers to the part number XC####
 
 # Basic Circuit Design
-![tripwire_bb.png]
+![tripwire circuit diagram](tripwire_bb.png)
